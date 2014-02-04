@@ -1,6 +1,10 @@
 #import "FxSprite.h"
 #import "FxAnimatedSprite.h"
 
+@interface CCSprite ()
+-(void) setTextureCoords:(CGRect)rect;
+@end
+
 @implementation FxSprite
 
 static BOOL _shaderLoaded = false;
