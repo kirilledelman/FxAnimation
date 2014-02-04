@@ -2,7 +2,7 @@
 #import "FxAnimatedSprite.h"
 
 @interface CCSprite ()
--(void) setTextureCoords:(CGRect)rect;
+-(void)setTextureCoords:(CGRect)rect;
 @end
 
 @implementation FxSprite
