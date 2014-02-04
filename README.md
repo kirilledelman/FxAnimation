@@ -1,7 +1,9 @@
 FxAnimation
 ===========
 
-A simple library to export and animate Flash symbols in iOS / cocos2d, with included example.
+A simple library to export and animate Flash symbols in iOS / Cocos2d V3, with included example.
+
+For Cocos2d V3 RC1 branch, see FxAnimationV3 repo: https://github.com/kirilledelman/FxAnimationV3
 
 Workflow:
 * Create your animations in Flash as MovieClips with animated layers containing Graphic symbols. 
